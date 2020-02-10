@@ -364,7 +364,8 @@ node_modules/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
-__pycache__/
+./Project Euler/__pycache__/
+./Project Euler/.idea/
 *.py[cod]
 *$py.class
 
