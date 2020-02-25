@@ -8,8 +8,8 @@
 #define usecppio ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 using namespace std;
 using pii = pair<int, int>;
-#define int likely
 #define MOD 1000000007
+#define int ll
 double twosolve();
 inline double val_ypp(double &y, double &yp, double &x)
 {
