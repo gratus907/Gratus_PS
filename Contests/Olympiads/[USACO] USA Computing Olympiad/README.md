@@ -7,7 +7,11 @@ However, the IO system is different - BOJ uses standard in/out instead of file I
 
 - 2016-03 US Open
     - Division 2 (Gold)
+- 2017-02 February
+    - Division 2 (Gold)
 - 2018-01 January
+    - Division 2 (Gold)
+- 2018-02 February
     - Division 2 (Gold)
 - 2018-12 December
     - Division 2 (Gold)
