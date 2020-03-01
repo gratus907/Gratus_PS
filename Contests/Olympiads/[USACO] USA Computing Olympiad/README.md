@@ -15,3 +15,5 @@ However, the IO system is different - BOJ uses standard in/out instead of file I
     - Division 2 (Gold)
 - 2018-12 December
     - Division 2 (Gold)
+- 2019-01 January
+    - Division 2 (Gold)
