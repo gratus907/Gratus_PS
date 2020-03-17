@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/c,c++,java,macos,clion,ocaml,python,pycharm,windows,intellij,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=c,c++,java,macos,clion,ocaml,python,pycharm,windows,intellij,visualstudiocode
 
+*.tcs
+*.bin
 ### C ###
 # Prerequisites
 *.d
