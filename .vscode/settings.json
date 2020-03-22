@@ -18,7 +18,13 @@
         "rope": "cpp",
         "initializer_list": "cpp",
         "regex": "cpp",
+<<<<<<< Updated upstream
         "valarray": "cpp"
     },
     "competitive-programming-helper.firstTime": false
+=======
+        "valarray": "cpp",
+        "ostream": "cpp"
+    }
+>>>>>>> Stashed changes
 }
