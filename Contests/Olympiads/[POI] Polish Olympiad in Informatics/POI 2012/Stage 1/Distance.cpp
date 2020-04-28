@@ -73,20 +73,10 @@ int32_t main()
     for (int i = 1; i<=M; i++)
     {
         if (divs[i].size()<2) continue;
-        if (debug)
-        {
-            printf("%lld: ",i);
-            for (auto it:divs[i])
-                printf("%lld ",it);
-            printf("\n");
-        }
-        
         try_minimize(divs[i][0].second, divs[i][1].second);
         for (int j = 1; j<divs[i].size(); j++)
             try_minimize(divs[i][0].second, divs[i][j].second);
     }
     for (int i = 0; i<n; i++)
-    {
         cout << min_val[i].second+1 << '\n';
-    }
 }
